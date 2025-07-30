@@ -37,9 +37,9 @@ Dự án này phân tích dữ liệu giả định doanh số khu vực Hoa K�
 - **Excel**: Lưu trữ và xử lý dữ liệu ban đầu.
 
 ## Kết quả
-- **Thông tin sản phẩm**: Accessories, Rugs và Platters đóng góp lớn vào doanh thu, trong khi Bedroom Furniture và Bean Bags kém hiệu quả.
-- **Xu hướng kênh bán hàng**: Doanh số trực tuyến tăng mạnh vào năm 2020, vượt qua kênh cửa hàng vào các tháng cao điểm.
-- **Thông tin khách hàng**: Xác định khách hàng giá trị cao và khu vực tiềm năng để mở rộng.
+- **Nhóm sản phẩm chủ lực**: Accessories, Rugs và Platters đóng góp lớn vào doanh thu, trong khi Bedroom Furniture và Bean Bags kém hiệu quả.
+- **Xu hướng kênh bán hàng**: Doanh số Online tăng mạnh vào năm 2020 cao hơn kênh In-store khoảng 0.1M vào các tháng cao điểm.
+- **Thông tin khách hàng**: Trong cả 2 năm, khoảng 40% số lượng khách hàng đem lại doanh thu trên trung bình. Khách hàng giá trị cao là Pure Group, WakeFern, Apotheca, Ltd và khu vực trọng điểm là West và South để tiếp tục mở rộng.
 - **Đề xuất chiến lược**:
    - Phát triển đa dạng sản phẩm với các nhóm Electronics, General, Accessories.
    - Tập trung vào các khách hàng trọng điểm.
