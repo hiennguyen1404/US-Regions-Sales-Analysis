@@ -41,11 +41,11 @@ Dự án này phân tích dữ liệu giả định doanh số khu vực Hoa K�
 - **Xu hướng kênh bán hàng**: Doanh số trực tuyến tăng mạnh vào năm 2020, vượt qua kênh cửa hàng vào các tháng cao điểm.
 - **Thông tin khách hàng**: Xác định khách hàng giá trị cao và khu vực tiềm năng để mở rộng.
 - **Đề xuất chiến lược**:
-- *** Phát triển đa dạng sản phẩm với các nhóm Electronics, General, Accessories.
-- ***Tập trung vào các khách hàng trọng điểm.
-- ***Tăng cường kênh Online
-- ***Khai thác tập trung vào các mùa cao điểm tháng 6, tháng 11.
-- ***Mở rộng chuỗi cửa hàng tại West và South.
+   - Phát triển đa dạng sản phẩm với các nhóm Electronics, General, Accessories.
+   - Tập trung vào các khách hàng trọng điểm.
+   - Tăng cường kênh Online
+   - Khai thác tập trung vào các mùa cao điểm tháng 6, tháng 11.
+   - Mở rộng chuỗi cửa hàng tại West và South.
 
 ## Hạn chế
 - Bộ dữ liệu là giả định, có thể hạn chế trong thực tế.
